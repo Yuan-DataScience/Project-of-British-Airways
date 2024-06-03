@@ -18,17 +18,18 @@ The frequency chart below shows that the key topics within the reviews include �
 
 ### Sentiment Analysis
 
-The sentiment distribution chart below shows that the majority of the reviews are positive, with a significant portion being neutral, and a smaller portion being negative. This indicates that overall customer sentiment is relatively favorable.
+
+Out of 1000 reviews, 546 were positive, 437 were negative and 17 were neutral. This means the majority of reviews were polarised as either positive or negative. The sentiment distribution chart below shows that the majority of the reviews are positive, with a significant portion being neutral, and a smaller portion being negative. This indicates that overall customer sentiment is relatively favorable.
 
 ![Sentiment Distribution of Customer Reviews](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/Sentiment%20Distribution%20of%20Customer%20Reviews.png)
 
 ## TASK 2: Predicting Customer Buying Behaviour
+![Sentiment Distribution of Customer Reviews](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/Sentiment%20Distribution%20of%20Customer%20Reviews.png)
 
-The project tasks include:
-1. **Scraping and collecting customer feedback** from the Skytrax website.
-2. **Cleaning and analyzing the data** to extract insights using techniques like topic modeling, sentiment analysis, and wordclouds.
-3. **Building a predictive model** to forecast customer booking behavior using the provided dataset.
-4. **Evaluating the model** and presenting the findings using visualizations and metrics.
+### Evaluation
+• The most important variable in the model was purchase_lead, that is the time between purchase and departure.
+• Information about the flight, e.g. flight time and duration was also significant, however booking origin of the customer was not important.
+• The accuracy of the model was approximately 0.7 (Precision) and 0.003 (Recall), showing that this model requires more improvement. I suggest adding more customer-centric features into the model.
 
 ## Skills Enhanced
 
