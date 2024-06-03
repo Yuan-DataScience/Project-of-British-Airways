@@ -1,27 +1,22 @@
 # British Airways Customer Booking Prediction
 
+This project is a part of the Data Science virtual internship program offered by Forage with British Airways.British Airways (BA) is the flag carrier airline of the United Kingdom (UK). It operates thousands of flights daily, carrying customers across the world. Understanding customer feedback and predicting booking behavior is crucial for improving customer satisfaction and optimizing operations.
+
 ## Project Description
 
-This project involves predictive modeling and analysis of British Airways customer bookings using machine learning techniques. The goal is to predict whether customers will make a booking based on various features in the dataset. The project also includes scraping and analyzing customer reviews to uncover insights. 
+The virtual Internship involves 2 main tasks. 
+TASK 1: Web scraping to gain company insights
+Task 2: Predicting customer buying behaviour
 
-During this programme, participants step into the shoes of a British Airways team member, completing tasks that replicate the work of BA's Data Science team. The skills practiced include web scraping, data manipulation, data visualization, and building predictive models using Python.
+## TASK 1: Web scraping to gain company insights
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Background](#background)
-- [Skills Enhanced](#skills-enhanced)
-- [Data Exploration and Preparation](#data-exploration-and-preparation)
-- [Feature Engineering](#feature-engineering)
-- [Model Training](#model-training)
-- [Model Evaluation](#model-evaluation)
-- [Feature Importance Visualization](#feature-importance-visualization)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+## Results
+The frequency chart below shows that the key topics within the
+reviews include “service”, “seat”, “crew” and “staff”, showing that
+people are actively talking about their experience and staff
 
-## Background
 
-British Airways (BA) is the flag carrier airline of the United Kingdom (UK). It operates thousands of flights daily, carrying customers across the world. Understanding customer feedback and predicting booking behavior is crucial for improving customer satisfaction and optimizing operations.
+
 
 The project tasks include:
 1. **Scraping and collecting customer feedback** from the Skytrax website.
@@ -38,17 +33,3 @@ The project tasks include:
 - **Data Science**: Applying analytical skills to make data-driven decisions.
 - **Python Programming**: Using Python for data analysis and machine learning.
 
-## Data Exploration and Preparation
-
-### Data Loading
-
-```python
-import pandas as pd
-
-# Load the dataset
-file_path = 'F:/Jobs/Certificates/British_Airways/Data/customer_booking_300.csv'
-df = pd.read_csv(file_path)
-
-# Display the first few rows and columns
-print(df.head())
-print(df.columns)
