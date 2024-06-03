@@ -11,9 +11,7 @@ Task 2: Predicting customer buying behaviour
 ## TASK 1: Web scraping to gain company insights
 
 ## Results
-The frequency chart below shows that the key topics within the
-reviews include “service”, “seat”, “crew” and “staff”, showing that
-people are actively talking about their experience and staff
+The frequency chart below shows that the key topics within the reviews include “service”, “seat”, “crew” and “staff”, showing that people are actively talking about their experience and staff.
 
 
 
