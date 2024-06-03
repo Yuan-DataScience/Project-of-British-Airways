@@ -24,13 +24,16 @@ Out of 1000 reviews, 546 were positive, 437 were negative and 17 were neutral. T
 ![Sentiment Distribution of Customer Reviews](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/Sentiment%20Distribution%20of%20Customer%20Reviews.png)
 
 ## TASK 2: Predicting Customer Buying Behaviour
-![Sales-Forecasting-Analysis](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/FeatureImportance.png)
 
 ### Evaluation
 
 - **1**: The most important variable in the model was purchase_lead, that is the time between purchase and departure.
 - **2**: Information about the flight, e.g. flight time and duration was also significant, however booking origin of the customer was not important.
 - **3**: The accuracy of the model was approximately 0.7 (Precision) and 0.003 (Recall), showing that this model requires more improvement. I suggest adding more customer-centric features into the model.
+  
+![Sales-Forecasting-Analysis](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/FeatureImportance.png)
+
+
 
 ## Skills Enhanced
 
