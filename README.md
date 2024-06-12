@@ -29,7 +29,7 @@ Out of 1000 reviews, 546 were positive, 437 were negative and 17 were neutral. T
 
 - **1**: The most important variable in the model was purchase_lead, that is the time between purchase and departure.
 - **2**: Information about the flight, e.g. flight time and duration was also significant, however booking origin of the customer was not important.
-- **3**: The accuracy of the model was approximately 0.7 (Precision) and 0.003 (Recall), showing that this model requires more improvement. I suggest adding more customer-centric features into the model.
+- **3**: The accuracy of the model was approximately 0.85 (Precision) and 0.0015 (Recall), showing that this model requires more improvement. I suggest adding more customer-centric features into the model.
   
 ![Sales-Forecasting-Analysis](https://github.com/Yuan-DataScience/Sales-Forecasting-Analysis-Project-British-Airways-/blob/main/FeatureImportance.png)
 
