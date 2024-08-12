@@ -1,6 +1,6 @@
 # British Airways Customer Booking Prediction
 
-This project is a part of the Data Science virtual internship program offered by Forage with British Airways. British Airways (BA) is the flag carrier airline of the United Kingdom (UK). It operates thousands of flights daily, carrying customers across the world. Understanding customer feedback and predicting booking behavior is crucial for improving customer satisfaction and optimizing operations.
+This project is a part of the Data Science internship program offered by Forage with British Airways. British Airways (BA) is the flag carrier airline of the United Kingdom (UK). It operates thousands of flights daily, carrying customers across the world. Understanding customer feedback and predicting booking behavior is crucial for improving customer satisfaction and optimizing operations.
 
 ## Project Description
 
